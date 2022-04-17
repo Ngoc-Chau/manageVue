@@ -24,7 +24,7 @@
           <!-- end mesage ------------------------------------------------------------------------------------- -->
           <div class="row" style="background: white">
             <div style="border: 1px solid; padding-top: 25px; padding-bottom: 15px;">
-              <h2>QUẢN LÝ DANH SÁCH MƯỢN TÀI SẢN / THIẾT BỊ</h2>
+              <h2>QUẢN LÝ DANH SÁCH BẢO HÀNH</h2>
             </div>
             <div style="border: 1px solid; padding: 12px;">
               <div class="mb-3" style="float: left; margin-top: 5px; font-size: 15px;">
